@@ -1,3 +1,7 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "Encanto_Doce.github.io"]
+	path = Encanto_Doce.github.io
+	url = git@github.com:Luciara-Abreu/Encanto_Doce.github.io
+	branch = master
